@@ -19,7 +19,7 @@ tmp/
 *.war
 
 /bin/com/epam/
-/target/
+starter_code/target/
 
 .settings/
 .project
